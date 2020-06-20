@@ -167,6 +167,9 @@ button, button:hover, button:focus, button:active
     padding: 94px 0;
     text-align: center;
 }
+.activities-item {
+    width: 370px;
+}
 .activities-item:not(:last-child) {
     margin-right: 30px;
 }
